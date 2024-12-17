@@ -3,7 +3,7 @@
 starting with redis-server
 '''
 
-import Union
+from typing import Union
 import redis
 import uuid
 
